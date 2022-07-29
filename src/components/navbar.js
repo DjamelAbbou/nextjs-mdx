@@ -5,10 +5,10 @@ export default function Navbar() {
   return (
     <nav className='navbar'>
         <Link href="/" passhref>
-            <h2 className='pointer'>Djamel Abbou</h2>
+            <h2 className='pointer index'>Djamel Abbou</h2>
         </Link>
         <Link href="/bio" passhref>
-            <h2 className='pointer'>Bio</h2> 
+            <p className='pointer'>Bio</p> 
         </Link>
     </nav>
   )

@@ -1,12 +1,12 @@
 .navbar {
-    display: flex;
-    align-items: center;
-  }
-  
-  .pointer {
-    cursor: pointer;
-  }
+  display: flex;
+  align-items: center;
+}
 
-  .index {
-    margin-right: 1rem;
-  }
+.pointer {
+  cursor: pointer;
+}
+
+.index {
+  margin-right: 1rem;
+}

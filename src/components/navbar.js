@@ -7,8 +7,8 @@ export default function Navbar() {
         <Link href="/" passhref>
             <h2 className='pointer'>Djamel Abbou</h2>
         </Link>
-        <Link>
-            <h2></h2> 
+        <Link href="/bio" passhref>
+            <h2 className='pointer'>Bio</h2> 
         </Link>
     </nav>
   )
